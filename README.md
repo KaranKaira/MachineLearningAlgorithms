@@ -1,2 +1,2 @@
 # MachineLearningAlgorithms
-Machine Learning Algorithms coded by myself from scratch
+Machine Learning Algorithms coded by me from scratch.
